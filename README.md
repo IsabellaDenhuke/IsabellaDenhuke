@@ -1,4 +1,3 @@
-- Olá sou a @IsabellaDenhuke. ✨✨✨
-- Estou aprendendo programação (JavaScript).
+- Olá sou a @IsabellaDenhuke. ✨
 - Utilizo esse espaço para compartilhar meus projetos. 
-- Amo ler livros de romance e adoro tomar um chimarrão. ❤ 
+- Amo ler livros e tomar um chimarrão. ❤
